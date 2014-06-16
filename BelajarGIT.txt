@@ -1,0 +1,7 @@
+//LATIHAN REPOSITORY DAN GIT
+// Nama File: belajarGIT.txt
+
+latihan GIT
+denagn memasukan file dalam bentuk.txt
+created by : Trisna nugraha
+periode : 24 maret 2014

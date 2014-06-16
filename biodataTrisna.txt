@@ -1,0 +1,11 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata Pribadi
+//perintah yang ke dua
+
+Nama            : Trisna nugraha
+Nim             : 4512210014
+Alamat          : bogor
+Tanggal lahir   : bogor
+Hoby            : 
+Email di github : Trisna87
+Email connect   : ariez724@gmail.com
